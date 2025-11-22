@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-11-15T06:54:52.345705",
+  "base_url": "http://localhost:8000",
+  "total_tests": 5,
+  "passed_tests": 4,
+  "success_rate": 80.0,
+  "details": {
+    "root": true,
+    "health": true,
+    "version": true,
+    "docs": true,
+    "auth": false
+  }
+}

@@ -1,0 +1,49 @@
+内容系统
+
+
+# 忽略文件
+.git
+.gitignore
+README.md
+.env
+.venv
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.tox
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# 忽略开发文件
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# 忽略测试文件
+tests/
+test/
+*test*.py
+
+# 忽略文档
+docs/
+*.md
+
+# 忽略IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo

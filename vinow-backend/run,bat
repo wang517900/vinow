@@ -1,0 +1,9 @@
+@echo off
+
+REM 激活 Python 虚拟环境
+call venv\Scripts\activate
+
+REM 启动 FastAPI 服务（自动重载模式）
+uvicorn app.main:app --reload
+
+pause

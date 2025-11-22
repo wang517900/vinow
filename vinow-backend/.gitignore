@@ -1,0 +1,22 @@
+# 环境变量 
+.env 
+.env.local 
+ 
+# Python缓存文件 
+__pycache__/ 
+*.pyc 
+*.pyo 
+*.pyd 
+.Python 
+ 
+# 虚拟环境 
+venv/ 
+.venv/ 
+ 
+# 日志文件 
+logs/ 
+*.log 
+ 
+# 开发工具 
+.vscode/ 
+.idea/ 
